@@ -156,7 +156,11 @@ main a:hover {
 
 main img {
     max-width: 100%;
+}
+
+picture.imagem {
     margin: auto;
+    align-items: center;
 }
 
 div.video {
