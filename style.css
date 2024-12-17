@@ -199,6 +199,11 @@ aside ul {
     padding: 10px 0px;
 }
 
+main aside p strong {
+    color: var(--verde4);
+    font-weight: bold;
+}
+
 footer {
     min-width: 300px;
     max-width: 1000px;
