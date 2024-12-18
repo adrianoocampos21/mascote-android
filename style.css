@@ -158,9 +158,10 @@ main img {
     max-width: 100%;
 }
 
-picture.imagem {
+main img.pequena {
+    max-wifth: 350px;
+    display: block;
     margin: auto;
-    align-items: center;
 }
 
 div.video {
