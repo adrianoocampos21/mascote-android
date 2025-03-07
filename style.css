@@ -88,6 +88,7 @@ nav.menu-desk a {
     text-decoration: none;
     padding: 10px;
     font-weight: 500;
+    transition: .5s;
 }
 
 nav.menu-desk a:hover {
@@ -95,7 +96,7 @@ nav.menu-desk a:hover {
     text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.687);
     background-color:var(--verde1);
     border-radius: 5px;
-    transition: .5s;
+
 }
 
 main {
@@ -155,11 +156,11 @@ main a:hover {
 }
 
 main img {
-    max-width: 100%;
+    width: 100%;
 }
 
 main img.pequena {
-    max-wifth: 350px;
+    max-width: 350px;
     display: block;
     margin: auto;
 }
